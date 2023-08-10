@@ -1,0 +1,44 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    height: 100px;
+}
+
+.crsl-h1{
+    font-size: 50px;
+}
+
+.everym-h1{
+    font-size: 40px;
+    font-weight: 900;
+    color: black;
+}
+
+.everym-p{
+    color: rgb(77, 76, 76);
+    font-size: 18px;
+    line-height: 35px;
+    font-weight: 900;
+}
+
+#orp{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.crd-dis{
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.cspln-btn{
+    background-color: rgb(151, 117, 76);
+}
+
+#hot-bedge{
+    margin-bottom: 100px;
+}
